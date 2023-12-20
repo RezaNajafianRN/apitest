@@ -1,7 +1,7 @@
 {
   "modules": [
     {
-      "id": "hotbar1111",
+      "id": "hotbar",
       "display-name": "Hotbar"
     },
     {
