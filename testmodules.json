@@ -1,0 +1,24 @@
+{
+  "modules": [
+    {
+      "id": "fps",
+      "display-name": "FPS"
+    },
+    {
+      "id": "cps",
+      "display-name": "CPS"
+    },
+    {
+      "id": "clock",
+      "display-name": "Clock"
+    },
+    {
+      "id": "potion-effect",
+      "display-name": "Potion Effect"
+    },
+    {
+      "id": "zoom",
+      "display-name": "Zoom"
+    }
+  ]
+}
