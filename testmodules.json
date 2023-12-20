@@ -1,24 +1,248 @@
 {
   "modules": [
     {
+      "id": "hotbar",
+      "display-name": "Hotbar"
+    },
+    {
+      "id": "design",
+      "display-name": "Design"
+    },
+    {
+      "id": "3d-skin",
+      "display-name": "3D Skin"
+    },
+    {
+      "id": "hit-color",
+      "display-name": "Hit Color"
+    },
+    {
+      "id": "motion-blur",
+      "display-name": "Motion Blur"
+    },
+    {
+      "id": "menu-blur",
+      "display-name": "Menu Blur"
+    },
+    {
+      "id": "color-filter",
+      "display-name": "Color Filter"
+    },
+    {
+      "id": "full-bright",
+      "display-name": "Full Bright"
+    },
+    {
+      "id": "block-overlay",
+      "display-name": "Block Overlay"
+    },
+    {
+      "id": "item-physics",
+      "display-name": "Item Physics"
+    },
+    {
+      "id": "tnt-countdown",
+      "display-name": "TNT Countdown"
+    },
+    {
+      "id": "zoom",
+      "display-name": "Zoom"
+    },
+    {
       "id": "fps",
       "display-name": "FPS"
+    },
+    {
+      "id": "armor-status",
+      "display-name": "Armor Status"
+    },
+    {
+      "id": "bps",
+      "display-name": "BPS"
+    },
+    {
+      "id": "bedwars-resource",
+      "display-name": "BedWars Resource"
+    },
+    {
+      "id": "combo-counter",
+      "display-name": "Combo Counter"
     },
     {
       "id": "cps",
       "display-name": "CPS"
     },
     {
-      "id": "clock",
-      "display-name": "Clock"
+      "id": "keystrokes",
+      "display-name": "Keystrokes"
+    },
+    {
+      "id": "memory",
+      "display-name": "Memory"
+    },
+    {
+      "id": "ping",
+      "display-name": "Ping"
     },
     {
       "id": "potion-effect",
       "display-name": "Potion Effect"
     },
     {
-      "id": "zoom",
-      "display-name": "Zoom"
+      "id": "server-address",
+      "display-name": "Server Address"
+    },
+    {
+      "id": "reach-display",
+      "display-name": "Reach Display"
+    },
+    {
+      "id": "stop-watch",
+      "display-name": "Stop Watch"
+    },
+    {
+      "id": "clock",
+      "display-name": "Clock"
+    },
+    {
+      "id": "glint-colorizer",
+      "display-name": "Glint Colorizer"
+    },
+    {
+      "id": "chunk-animator",
+      "display-name": "Chunk Animator"
+    },
+    {
+      "id": "hitbox",
+      "display-name": "Hitbox"
+    },
+    {
+      "id": "1.7-visuals",
+      "display-name": "1.7 Visuals"
+    },
+    {
+      "id": "hold-look",
+      "display-name": "Hold Look"
+    },
+    {
+      "id": "free-look",
+      "display-name": "Free Look"
+    },
+    {
+      "id": "title",
+      "display-name": "Title"
+    },
+    {
+      "id": "crosshair",
+      "display-name": "Crosshair"
+    },
+    {
+      "id": "time-changer",
+      "display-name": "Time Changer"
+    },
+    {
+      "id": "toggle-sneak-sprint",
+      "display-name": "Toggle Sneak/Sprint"
+    },
+    {
+      "id": "hit-range",
+      "display-name": "Hit Range"
+    },
+    {
+      "id": "particle",
+      "display-name": "Particle"
+    },
+    {
+      "id": "scoreboard",
+      "display-name": "Scoreboard"
+    },
+    {
+      "id": "tab",
+      "display-name": "Tab"
+    },
+    {
+      "id": "chat",
+      "display-name": "Chat"
+    },
+    {
+      "id": "tweak",
+      "display-name": "Tweak"
+    },
+    {
+      "id": "culling",
+      "display-name": "Culling"
+    },
+    {
+      "id": "security-assist",
+      "display-name": "Security Assist"
+    },
+    {
+      "id": "custom-fog",
+      "display-name": "Custom Fog"
+    },
+    {
+      "id": "pack-display",
+      "display-name": "Pack Display"
+    },
+    {
+      "id": "boss-bar",
+      "display-name": "Boss Bar"
+    },
+    {
+      "id": "name-tag",
+      "display-name": "Name Tag"
+    },
+    {
+      "id": "watermark",
+      "display-name": "Watermark"
+    },
+    {
+      "id": "weather-changer",
+      "display-name": "Weather Changer"
+    },
+    {
+      "id": "pov",
+      "display-name": "POV"
+    },
+    {
+      "id": "auto-text",
+      "display-name": "Auto Text"
+    },
+    {
+      "id": "better-sound",
+      "display-name": "Better Sound"
+    },
+    {
+      "id": "screenshot",
+      "display-name": "Screenshot"
+    },
+    {
+      "id": "nick-hider",
+      "display-name": "Nick Hider"
+    },
+    {
+      "id": "damage-tint",
+      "display-name": "Damage Tint"
+    },
+    {
+      "id": "bridge-assist",
+      "display-name": "Bridge Assist"
+    },
+    {
+      "id": "coordinates",
+      "display-name": "Coordinates"
+    },
+    {
+      "id": "gui",
+      "display-name": "GUI"
+    },
+    {
+      "id": "performance",
+      "display-name": "Performance"
+    },
+    {
+      "id": "discord",
+      "display-name": "Discord"
     }
   ]
 }
